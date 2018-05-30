@@ -62,7 +62,12 @@ address:
 
 # Build settings
 markdown: kramdown
+<<<<<<< HEAD
 permalink: pretty
+
+
+=======
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
@@ -77,5 +82,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+>>>>>>> 5492f25b3b234788cc918f99bcd0b96f644a8217
 
 timezone: Asia/Singapore
