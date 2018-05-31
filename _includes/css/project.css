@@ -1,12 +1,12 @@
 #splashProject {
-    background-image: url('{{ site.baseurl }}/img/work1.jpg');
+    background-image: url('{{ site.baseurl }}/img/work.jpg');
     background-attachment: scroll;
     background-position: center center;
     background-repeat: none;
-    -webkit-background-size: contain;
-    -moz-background-size: contain;
-    background-size: contain;
-    -o-background-size: contain;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
 }
 
 #splashProject {
