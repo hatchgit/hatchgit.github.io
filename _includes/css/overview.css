@@ -1,5 +1,5 @@
 #splashOverview {
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/img/stock/baby-girl-kite_edited.jpg');
     background-attachment: scroll;
     background-position: center center;
     background-repeat: none;
@@ -11,7 +11,7 @@
 
 #splashOverview {
     text-align: center;
-    color: #fff;
+    color: #000;
 }
 
 #splashOverview .intro-text {
