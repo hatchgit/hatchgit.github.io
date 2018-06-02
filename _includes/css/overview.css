@@ -1,5 +1,5 @@
 #splashOverview {
-    background-image: url('{{ site.baseurl }}/img/stock/baby-girl-kite_edited.jpg');
+    background-image: url('{{ site.baseurl }}/img/stock/toapayoh2.jpg');
     background-attachment: scroll;
     background-position: center center;
     background-repeat: none;
@@ -11,7 +11,7 @@
 
 #splashOverview {
     text-align: center;
-    color: #000;
+    color: #fff;
 }
 
 #splashOverview .intro-text {
@@ -31,9 +31,9 @@
     margin-bottom: 25px;
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
-    font-size: 50px;
-    font-weight: 700;
-    line-height: 50px;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 40px;
 }
 
 @media(min-width:768px) {
@@ -51,12 +51,17 @@
     }
 
     #splashOverview .intro-text .intro-heading {
-        margin-bottom: 50px;
+        margin-top: 45px;
+        margin-bottom: 25px;
         text-transform: uppercase;
         font-family: {{ site.data.template.font.primary }};
         font-size: 75px;
-        font-weight: 700;
+        font-weight: 800;
         line-height: 75px;
     }
 }
 
+
+.logos {
+    border-radius: 5px;
+}
