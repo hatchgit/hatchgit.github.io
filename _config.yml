@@ -14,6 +14,14 @@ collections:
         output: true
     people:
         output: true
+    hatchInfo:
+        output: true
+    projectInfo:
+        output: true
+    faqInfo:
+        output: true
+    posts:
+        output: true
 
 
 

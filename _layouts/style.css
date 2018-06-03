@@ -3,6 +3,8 @@
 {% include css/overview.css %}
 {% include css/hatch.css %}
 {% include css/project.css %}
+{% include css/faq.css %}
+{% include css/blog.css %}
 
 
 {{ content }}

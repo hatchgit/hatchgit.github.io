@@ -1,6 +1,6 @@
 ---
 title: National Youth Council
-subtitle: Funded by the National Youth Fund
+subtitle: We've been funded!
 layout: default
 modal-id: 2
 img: NYC.png

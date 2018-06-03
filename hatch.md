@@ -1,9 +1,6 @@
 ---
 layout: hatch
 title: About Hatch
+date: 2018-06-03
 permalink: /hatch/
 ---
-Who we are
-
-What we do
-

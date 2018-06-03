@@ -1,0 +1,18 @@
+<!-- Pilot Project Section -->
+    <section id="portfolio">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Pilot Project</h2>
+                    <h3 class="section-subheading text-muted">Let's do something about it!</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2 writeup">
+                    {% for writeup in site.projectInfo %}
+                    {{ writeup.content }}
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </section>
