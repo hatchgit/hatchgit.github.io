@@ -27,6 +27,11 @@ $('.navbar-collapse ul li a').click(function() {
 
 $('div.modal').on('show.bs.modal', function() {
 	var modal = this;
+    document.addEventListener('keyup', function(e) {
+        if (e.keyCode == 27) {
+            $(modal).modal('hide');
+        }
+    });
 	var hash = modal.id;
 	window.location.hash = hash;
 	window.onhashchange = function() {
@@ -35,3 +40,5 @@ $('div.modal').on('show.bs.modal', function() {
 		}
 	}
 });
+
+

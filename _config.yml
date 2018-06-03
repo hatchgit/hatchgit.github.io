@@ -7,6 +7,14 @@ email: hatch.project.team@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
+#partners
+collections_dir: my_collections
+collections:
+    partners:
+        output: true
+
+        
+
 # Team names, titles and social links
 people:
 - name: Kay Garland
