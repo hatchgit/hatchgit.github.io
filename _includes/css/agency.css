@@ -593,8 +593,19 @@ section h3.section-subheading {
     margin-top: 0;
 }
 
-aside.clients img {
-    margin: 50px auto;
+
+.callToAction {
+    text-align: center;
+}
+
+.callToAction .btn {
+    margin-top: 250px;
+    margin-bottom: 250px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 30px;
 }
 
 section#contact {
@@ -806,3 +817,4 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
+
