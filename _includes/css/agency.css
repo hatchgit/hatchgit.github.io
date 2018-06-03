@@ -135,6 +135,8 @@ fieldset[disabled] .btn-primary.active {
 
 @media (min-width: 769px) {
     .btn-xl {
+        max-width: 150%;
+        white-space: nowrap !important;
         padding: 20px 40px;
         border-color: #{{ site.data.template.color.primary }};
         border-radius: 3px;
