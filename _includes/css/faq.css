@@ -36,7 +36,7 @@
     line-height: 50px;
 }
 
-@media(min-width:768px) {
+@media(min-width:769px) {
     #splashFaq .intro-text {
         padding-top: 300px;
         padding-bottom: 200px;
