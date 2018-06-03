@@ -121,6 +121,7 @@ fieldset[disabled] .btn-primary.active {
 
 .btn-xl {
     width: 75%;
+    white-space: normal;
     padding: 20px 20px;
     border-color: #{{ site.data.template.color.primary }};
     border-radius: 3px;
