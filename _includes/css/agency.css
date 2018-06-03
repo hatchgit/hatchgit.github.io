@@ -131,7 +131,7 @@ fieldset[disabled] .btn-primary.active {
     background-color: #{{ site.data.template.color.primary }};
 }
 
-@media (min-width: 768px) {
+@media (min-width: 769px) {
     .btn-xl {
         padding: 20px 40px;
         border-color: #{{ site.data.template.color.primary }};
