@@ -14,7 +14,7 @@
                     <div style="text-align: center;">
                         <h2> {{ post.title }} </h2>
                         <h4>&emsp; {{ post.subtitle }} </h4>
-                        <p><i> Posted {{ post.date }}</i> </p>
+                        <p><i> Posted {{ post.date | date_to_long_string }}</i> </p>
                     </div>
                     {{ post.content }}
                     <p><i> Categories: {{ post.categories }}</i> </p>
