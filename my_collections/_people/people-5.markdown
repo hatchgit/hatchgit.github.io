@@ -1,7 +1,7 @@
 ---
-name: Kay Garland 1
-pic: 1
-position: Lead Designer
+name: Cheong Min Wei
+pic: 2.jpg
+position: Lead Designer this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is 
 social:
   - title: twitter
     url: #

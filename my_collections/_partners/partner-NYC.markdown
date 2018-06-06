@@ -9,6 +9,5 @@ alt: image-alt
 collaborating-since: March 2018
 link-title: National Youth Fund
 website: "https://www.nyc.gov.sg/en/initiatives/grants/national-youth-fund/"
-description: Quality training comes at a price. Thankfully, the National Youth Council has agreed to fund our pilot, allowing us to...
-
 ---
+Through the National Youth Fund, the National Youth Council has funded Hatch's pilot project for the training of up to 20 suitable youths in UI/UX design.
