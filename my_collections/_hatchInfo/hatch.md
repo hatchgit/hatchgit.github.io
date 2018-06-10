@@ -32,34 +32,26 @@ If it hasn't already.
 
 This problem belongs to the whole of society. But while each person fends for himself, have we paused to consider who's being left behind?
 
-Singapore has largely maintained a level playing field in education, but opportunities in other aspects of career preparation, such as internships and career advice, are not readily accessible to youths of lower socio-economic groups. In turn, these youths face limited career choices and lack the practical knowledge to pursue personal growth.
+Among those who lack the paper qualifications that gets them past HR officers, the most vulnerable youths of our society, the youths-at-risk, are disproportionately affected. Faced with family and financial issues that they have little power to change, their circumstances hinder them from doing "well" by our society's yardstick.
 
-This occurs in a situation where the path to suitable employment can be especially challenging even for those who are motivated and driven. Existing outreach programs provide support through social-work intervention which engage youths to help them stay crime-free and develop as resilient individuals. However, a large group of them are still unable to pursue a meaningful career and achieve financial security after going through these programs. This is a gap which Hatch aims to address.
-
-Job options are predominantly vocational within work placement programs. It is difficult to achieve financial security through these jobs and many youths desire and deserve a more meaningful career. 
-
-Youth-at-risk are disadvantaged by the lack of formal qualifications. They lack career guidance and the opportunity to enrol into training programs that address their lack of formal education or qualifications. 
+Coupled with growing inequality and an ever-widening opportunity gap, it is becoming increasingly impossible for these youths to pursue a meaningful career and achieve financial security, regardless of how motivated and driven they are.
 
 
-While Singapore has largely maintained a level playing field in education, opportunities in other aspects of career preparation, such as internships and career advice, are not readily accessible to youths of lower socio-economic groups. In turn, these youths face limited career choices and lack the practical knowledge to pursue personal growth. 
+### Isn't something being done?
+Existing outreach programs provide support through a social-work intervention approach, which engages youths to help them stay crime-free and develop as resilient individuals. However, a large group of them are still unable to pursue a meaningful career and achieve financial security after going through these programs. 
 
-Existing programmes do not address the exclusion of our disadvantaged youths from a large swathe of attractive and viable career options. For work placement programs such as YMCA Project Bridge, employment options provided for the youths are within what we conventionally constitute as vocational. But these are still options that the youths, on their own, already have access to. As a result, at-risk youths are still limited from pursuing other career pathways.
-
-
-Pursuing a fulfilling career is tough for all of us, with the challenge greater for some than others. Our society's way of measuring ability makes it almost impossible for at-risk youths to explore and pursue areas they are passionate it.
+In addition, within current work placement programmes, job options are predominantly vocational. It is difficult to achieve financial security through these jobs and many youths desire and deserve an opportunity for a more meaningful career. 
 
 
-Our personal interactions with them and their youth workers is that the path to suitable employment can be especially challenging even for those who are motivated and driven. Existing outreach programs provide support through social-work intervention which engages youths to help them stay crime-free and develop as resilient individuals. However, a large group of them are still unable to pursue a meaningful career and achieve financial security after going through these programs. This is a gap which Hatch aims to address.
+### Setting up the problem
+From this, we see that:
+1. Youth-at-risk are disadvantaged by the lack of formal qualifications. They lack career guidance and the opportunity to enrol into training programs that address their lack of formal education or qualifications. 
+2. Opportunities in other aspects of career preparation, such as internships and career advice, are not readily accessible to these youths. In turn, these youths face limited career choices and lack the practical knowledge to pursue personal growth.
 
-### Scoping the Problem 
-
-Problem definition
-
-Scoping
-
-Addressing an opportunity gap 
+This is the gap which Hatch aims to address.
 
 
+<!--
 ### Our work's cut out for us
 
 Final questions:
@@ -67,5 +59,6 @@ Final questions:
 What should be done...
 
 How can we help...
+-->
 
 

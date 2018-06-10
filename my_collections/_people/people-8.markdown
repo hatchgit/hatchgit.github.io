@@ -1,7 +1,7 @@
 ---
-name: Ernest Teh
-pic: E1.png
-position: Lead Designer this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is 
+name: Denise Harjoko
+pic: D1.png
+position:
 social:
   - title: twitter
     url: #

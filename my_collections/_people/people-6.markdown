@@ -1,7 +1,7 @@
 ---
-name: Denise Harjoko
-pic: D1.png
-position: Lead Designer this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is 
+name: Cheong Min Wei
+pic: M1.png
+position:
 social:
   - title: twitter
     url: #

@@ -1,12 +1,12 @@
 ---
-name: Yeoh Wan Qing
-pic: 1.jpg
-position: Lead Designer this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is 
+name: Teo Xi Hui
+pic: X1.png
+position: 
 social:
   - title: twitter
     url: #
   - title: facebook
     url: #
-  - title: stack-overflow
+  - title: google-plus
     url: #
 ---

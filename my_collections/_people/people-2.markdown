@@ -1,7 +1,7 @@
 ---
 name: Victor Zhu
 pic: V1.png
-position: Lead Designer this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is 
+position: 
 social:
   - title: twitter
     url: #

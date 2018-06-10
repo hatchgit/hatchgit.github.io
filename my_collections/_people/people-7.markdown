@@ -1,7 +1,7 @@
 ---
-name: Khor Qianyi
-pic: Q1.png
-position: Lead Designer this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is 
+name: Kenneth Huang
+pic: K1.png
+position:
 social:
   - title: twitter
     url: #

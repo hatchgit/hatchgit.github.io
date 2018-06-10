@@ -1,7 +1,7 @@
 ---
-name: Cheong Min Wei
-pic: 2.jpg
-position: Lead Designer this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is a lot of text this is 
+name: Ernest Teh
+pic: E1.png
+position:
 social:
   - title: twitter
     url: #
