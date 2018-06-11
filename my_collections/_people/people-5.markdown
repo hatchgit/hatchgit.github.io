@@ -1,6 +1,6 @@
 ---
 name: Ernest Teh
-pic: E1.png
+pic: E2.png
 position:
 social:
   - title: twitter

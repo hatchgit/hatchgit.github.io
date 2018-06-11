@@ -1,6 +1,6 @@
 ---
 name: Yeoh Wan Qing
-pic: 1.jpg
+pic: W1.png
 position: 
 social:
   - title: twitter
