@@ -3,7 +3,7 @@ title: Pilot Project
 date: 2018-06-03
 ---
 
-![alt text](/img/HatchChart1.png "Hatch programme flow")
+<img src="/img/HatchChart1.png" alt="Hatch programme flow" class="img-responsive">
 
 ### What we do
 
