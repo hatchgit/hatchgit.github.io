@@ -1,7 +1,7 @@
 ---
-name: Cheong Min Wei
-pic: M1.png
-position:
+name: Choo Li Ying
+pic: LY1.png
+position: Head of Public Relations
 social:
   - title: twitter
     url: #

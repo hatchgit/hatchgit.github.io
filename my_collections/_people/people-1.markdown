@@ -1,12 +1,12 @@
 ---
-name: Teo Xi Hui
-pic: X1.png
-position: 
+name: Victor Zhu
+pic: V1.png
+position: Co-founder and CEO
 social:
   - title: twitter
     url: #
   - title: facebook
     url: #
-  - title: google-plus
+  - title: linkedin
     url: #
 ---

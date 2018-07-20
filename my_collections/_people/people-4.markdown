@@ -1,12 +1,12 @@
 ---
-name: Khor Qianyi
-pic: Q1.png
-position: 
+name: Teo Xi Hui
+pic: X1.png
+position: Head of Business Development
 social:
   - title: twitter
     url: #
   - title: facebook
     url: #
-  - title: stack-overflow
+  - title: google-plus
     url: #
 ---

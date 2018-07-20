@@ -1,12 +1,12 @@
 ---
-name: Victor Zhu
-pic: V1.png
-position: 
+name: Yeoh Wan Qing
+pic: W1.png
+position: Co-founder and Head of Programs
 social:
   - title: twitter
     url: #
   - title: facebook
     url: #
-  - title: linkedin
+  - title: stack-overflow
     url: #
 ---

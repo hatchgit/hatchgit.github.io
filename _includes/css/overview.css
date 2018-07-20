@@ -1,8 +1,8 @@
 #splashOverview {
-    background-image: url('{{ site.baseurl }}/img/stock/toapayoh2.jpg');
+    background-image: url('{{ site.baseurl }}/img/kclass1banner.png');
     background-attachment: scroll;
     background-position: center center;
-    background-repeat: none;
+    background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -11,57 +11,99 @@
 
 #splashOverview {
     text-align: center;
-    color: #fff;
+    color: white;
 }
 
 #splashOverview .intro-text {
-    padding-top: 100px;
-    padding-bottom: 50px;
+    padding-top: 0px;
 }
 
 #splashOverview .intro-text .intro-lead-in {
+    margin-top: 25px;
     margin-bottom: 25px;
     font-family: {{ site.data.template.font.secondary }};
-    font-size: 22px;
+    font-size: 1em;
     font-style: italic;
-    line-height: 22px;
+    font-weight: 200;
+    line-height: 1em;
+    color: #fefefe;
+    text-shadow: 0px 0px 5px black, 0px 0px 1px black, 0px 0px 15px black;
 }
 
 #splashOverview .intro-text .intro-heading {
-    margin-bottom: 25px;
-    text-transform: uppercase;
+    padding-top: 200px;
+    text-transform: none;
     font-family: {{ site.data.template.font.primary }};
-    font-size: 40px;
+    font-size: 1.5em;
     font-weight: 400;
-    line-height: 40px;
+    line-height: 1.5em;
 }
+
+#splashOverview .blurtext {
+    z-index: -1;
+    text-shadow: 0px 0px 1px black, 0px 0px 3px black, 0px 0px 5px black, 0px 0px 25px black, 0px 0px 35px black;
+}
+
 
 @media(min-width:768px) {
     #splashOverview .intro-text {
-        padding-top: 300px;
-        padding-bottom: 200px;
+        padding-top: 0px;
+        padding-bottom: 30px;
     }
 
     #splashOverview .intro-text .intro-lead-in {
-        margin-bottom: 25px;
+        margin-top: 25px;
+        margin-bottom: 50px;
         font-family: {{ site.data.template.font.secondary }};
-        font-size: 40px;
+        font-size: 1.5em;
         font-style: italic;
-        line-height: 40px;
+        line-height: 1.5em;
     }
 
     #splashOverview .intro-text .intro-heading {
-        margin-top: 45px;
+        padding-top: 250px;
         margin-bottom: 25px;
-        text-transform: uppercase;
+        text-transform: none;
         font-family: {{ site.data.template.font.primary }};
-        font-size: 75px;
-        font-weight: 800;
-        line-height: 75px;
+        font-size: 2.5em;
+        font-weight: 600;
+        line-height: 2.5em;
     }
+
+
+    #splashOverview .blurtext {
+        z-index: -1;
+        text-shadow: 0px 0px 1px black, 0px 0px 3px black, 0px 0px 5px black, 0px 0px 25px black, 0px 0px 35px black;
+    }
+
+    .statement {
+        font-family: {{ site.data.template.font.primary }};
+        font-size: 3em;
+        font-weight: 500;
+        line-height: 3em;
+    }
+
 }
 
 
 .logos {
     border-radius: 5px;
+}
+
+.statement {
+    font-family: {{ site.data.template.font.primary }};
+    font-size: 1.3em;
+    font-weight: 300;
+    line-height: 1.3em;
+}
+
+#bottomButtonOverview {
+    background-image: url('{{ site.baseurl }}/img/roundtableHangar.JPG');
+    background-attachment: scroll;
+    background-position: center center;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
 }

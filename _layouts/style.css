@@ -1,0 +1,10 @@
+{% include css/bootstrap.min.css %}
+{% include css/agency.css %}
+{% include css/overview.css %}
+{% include css/hatch.css %}
+{% include css/programmes.css %}
+{% include css/team.css %}
+{% include css/blog.css %}
+
+
+{{ content }}

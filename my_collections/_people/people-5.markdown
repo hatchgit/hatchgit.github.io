@@ -1,7 +1,7 @@
 ---
-name: Ernest Teh
-pic: E2.png
-position:
+name: Denise Harjoko
+pic: D1.png
+position: Head of Training and Development
 social:
   - title: twitter
     url: #

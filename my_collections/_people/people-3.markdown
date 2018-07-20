@@ -1,7 +1,7 @@
 ---
-name: Yeoh Wan Qing
-pic: W1.png
-position: 
+name: Kenneth Huang
+pic: K1.png
+position: Co-founder and Head of Partnerships
 social:
   - title: twitter
     url: #

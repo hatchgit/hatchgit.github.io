@@ -42,3 +42,7 @@ $('div.modal').on('show.bs.modal', function() {
 });
 
 
+$('.dropdown').click(function(e) {
+    e.stopPropagation();
+});
+
