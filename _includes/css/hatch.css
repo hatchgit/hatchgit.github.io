@@ -1,12 +1,12 @@
 #splashHatch {
-    background-image: url('{{ site.baseurl }}/img/frameworkBanner.png');
+    background-image: url('{{ site.baseurl }}/img/frameworkBanner2.png');
     background-attachment: scroll;
     background-position: center center;
     background-repeat: no-repeat;
-    -webkit-background-size: contain;
-    -moz-background-size: contain;
-    background-size: contain;
-    -o-background-size: contain;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
     
 }
 

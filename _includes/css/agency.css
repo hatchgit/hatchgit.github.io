@@ -14,6 +14,11 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
+.box-middle {
+    display: flex;
+    align-items: center;
+}
+
 .text-muted {
     color: #{{ site.data.template.color.muted }};
 }
@@ -28,6 +33,10 @@ body {
 
 .text-left {
     text-align: left;
+}
+
+.text-bold {
+    font-weight: bold;
 }
 
 p {
@@ -761,6 +770,19 @@ footer ul.quicklinks {
     line-height: 40px;
 }
 
+#img-nyc {
+    width: 200px;
+    height: auto;
+    padding: 10px;
+}
+
+@media(min-width: 768px) {
+    #img-nyc {
+        width: 300px;
+        height: auto;
+    }
+}
+
 ul.social-buttons {
     margin-bottom: 0;
 }
@@ -895,3 +917,7 @@ body {
     padding-right: 0 !important;
 }
 
+.navbar-img {
+    height: 55px;
+    width: 105px;
+}

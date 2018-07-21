@@ -85,3 +85,12 @@
     background-size: cover;
     -o-background-size: cover;
 }
+
+.row-uiux {
+    background-color: white;
+}
+
+.row-uiux img {
+    max-width: 100px;
+    float: left;
+}
