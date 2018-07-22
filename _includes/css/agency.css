@@ -19,6 +19,17 @@ body {
     align-items: center;
 }
 
+.text-em {
+    font-size: 1em;
+    line-height: 1em;
+}
+@media(min-width: 768px) {
+    .text-em {
+        font-size: 1.2em;
+        line-height: 1.2em;
+    }
+}
+
 .text-muted {
     color: #{{ site.data.template.color.muted }};
 }
@@ -37,6 +48,10 @@ body {
 
 .text-bold {
     font-weight: bold;
+}
+
+.text-single-line {
+    margin-bottom: 20px;
 }
 
 p {

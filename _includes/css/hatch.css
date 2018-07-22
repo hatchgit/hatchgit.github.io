@@ -1,5 +1,5 @@
 #splashHatch {
-    background-image: url('{{ site.baseurl }}/img/frameworkBanner2.png');
+    background-image: url('{{ site.baseurl }}/img/frameworkBanner1440.jpg');
     background-attachment: scroll;
     background-position: center center;
     background-repeat: no-repeat;
@@ -87,10 +87,6 @@
     }
 }
 
-.writeup {
-    margin-bottom: 20px;
-}
-
 .list-spaced li {
     margin-bottom: 15px;
     line-height: 1.5em;
@@ -112,7 +108,7 @@
 }
 
 #bottomButtonHatch {
-    background-image: url('{{ site.baseurl }}/img/vincent_pres.jpg');
+    background-image: url('{{ site.baseurl }}/img/vincent_pres_1440.jpg');
     background-attachment: scroll;
     background-position: center center;
     background-repeat: no-repeat;

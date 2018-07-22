@@ -1,5 +1,5 @@
 #splashOverview {
-    background-image: url('{{ site.baseurl }}/img/kclass1banner.png');
+    background-image: url('{{ site.baseurl }}/img/kclass1banner.jpg');
     background-attachment: scroll;
     background-position: center center;
     background-repeat: no-repeat;
@@ -96,7 +96,7 @@
 }
 
 #bottomButtonOverview {
-    background-image: url('{{ site.baseurl }}/img/roundtableHangar.JPG');
+    background-image: url('{{ site.baseurl }}/img/roundtableHangar1440.JPG');
     background-attachment: scroll;
     background-position: center center;
     background-repeat: no-repeat;
