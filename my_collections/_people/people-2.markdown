@@ -1,6 +1,6 @@
 ---
 name: Yeoh Wan Qing
-pic: W1.png
+pic: W3.jpeg
 position: Co-founder and Head of Programs
 social:
   - title: twitter
