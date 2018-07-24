@@ -83,6 +83,35 @@
 
 }
 
+@media(min-height: 768px) {
+    #splashOverview .intro-text .intro-heading {
+        padding-top: 350px;
+    }
+
+    #buttonSplashOverview {
+        margin-bottom: 50px;
+    }
+}
+
+@media(min-height: 900px) {
+    #splashOverview .intro-text .intro-heading {
+        padding-top: 450px;
+    }
+    #buttonSplashOverview {
+        margin-bottom: 100px;
+    }
+}
+
+
+@media(min-height: 1000) {
+    #splashOverview .intro-text .intro-heading {
+        padding-top: 525px;
+    }
+    #buttonSplashOverview {
+        margin-bottom: 125px;
+    }
+}
+
 
 .logos {
     border-radius: 5px;

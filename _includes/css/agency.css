@@ -46,6 +46,7 @@ body {
     text-align: left;
 }
 
+
 .text-bold {
     font-weight: bold;
 }
@@ -355,7 +356,6 @@ section h2.section-heading {
 }
 
 section h2.section-heading-nocaps{
-    text-transform: capitalize;
     margin-top: 0;
     margin-bottom: 15px;
     font-size: 30px;
@@ -705,6 +705,7 @@ section#contact {
     background-image: url('{{ site.baseurl }}/img/map-image.png');
     background-position: center;
     background-repeat: no-repeat;
+    height: 85vh;
 }
 
 section#contact .section-heading {
