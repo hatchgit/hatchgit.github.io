@@ -103,12 +103,21 @@
 }
 
 
-@media(min-height: 1000) {
+@media(min-height: 1000px) {
     #splashOverview .intro-text .intro-heading {
         padding-top: 525px;
     }
     #buttonSplashOverview {
         margin-bottom: 225px;
+    }
+}
+
+@media(min-height: 1200px) {
+    #splashOverview .intro-text .intro-heading {
+        padding-top: 650px;
+    }
+    #buttonSplashOverview {
+        margin-bottom: 300px;
     }
 }
 
