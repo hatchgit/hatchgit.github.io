@@ -86,10 +86,17 @@
 @media(min-height: 768px) {
     #splashOverview .intro-text .intro-heading {
         padding-top: 350px;
+        font-size: 2.75em;
+        line-height: 2.75em;
     }
 
     #buttonSplashOverview {
         margin-bottom: 50px;
+    }
+
+    #splashOverview .intro-text .intro-lead-in {
+        font-size: 1.75em;
+        line-height: 1.75em;
     }
 }
 
@@ -105,10 +112,10 @@
 
 @media(min-height: 1000px) {
     #splashOverview .intro-text .intro-heading {
-        padding-top: 525px;
+        padding-top: 500px;
     }
     #buttonSplashOverview {
-        margin-bottom: 225px;
+        margin-bottom: 200px;
     }
 }
 
@@ -117,7 +124,7 @@
         padding-top: 650px;
     }
     #buttonSplashOverview {
-        margin-bottom: 300px;
+        margin-bottom: 250px;
     }
 }
 

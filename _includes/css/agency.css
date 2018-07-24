@@ -174,7 +174,7 @@ fieldset[disabled] .btn-primary.active {
     background-color: #{{ site.data.template.color.primary }};
 }
 
-@media (min-width: 769px) {
+@media (min-width: 768px) {
     .btn-xl {
         max-width: 150%;
         white-space: nowrap !important;
