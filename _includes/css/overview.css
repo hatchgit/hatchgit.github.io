@@ -51,7 +51,7 @@
     }
 
     #splashOverview .intro-text .intro-lead-in {
-        margin-top: 25px;
+        margin-top: 0px;
         margin-bottom: 50px;
         font-family: {{ site.data.template.font.primary }};
         font-size: 1.5em;
@@ -60,7 +60,6 @@
 
     #splashOverview .intro-text .intro-heading {
         padding-top: 250px;
-        margin-bottom: 25px;
         text-transform: none;
         font-family: {{ site.data.template.font.primary }};
         font-size: 2.5em;
@@ -140,8 +139,8 @@
     }
     
     #splashOverview .intro-text .intro-lead-in {
-        font-size: 2.25em;
-        line-height: 2.25em;
+        font-size: 2em;
+        line-height: 2em;
     }
 }
 
