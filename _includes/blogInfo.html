@@ -3,22 +3,25 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading" id="about">Updates</h2>
-                    <h3 class="section-subheading text-muted">Inside scoop :P</h3>
+                    <h2 class="section-heading" id="about">blog:</h2>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 writeup">
-                    <hr style="height: 12px; border: 0; box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);">
                     {% for post in site.posts %}
-                    <div style="text-align: center;">
-                        <h2> {{ post.title }} </h2>
-                        <h4>&emsp; {{ post.subtitle }} </h4>
-                        <p><i> Posted {{ post.date | date_to_long_string }}</i> </p>
-                    </div>
-                    {{ post.content }}
-                    <p><i> Categories: {{ post.categories }}</i> </p>
-                    <hr style="height: 12px; border: 0; box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);">
+                            <div>
+                            <h2> {{ post.title }} </h2>
+                            <i> {{ post.subtitle }} </i>
+                            <br>
+                            <br>
+                            <p><i> {{ post.date | date_to_long_string }}</i> </p>
+                        </div>
+                        {{ post.content }}
+                        <p><i> Categories: {{ post.categories }}</i> </p>
+                        <br>
+                        <hr>
+                        <br>
+
                     {% endfor %}
                 </div>
             </div>

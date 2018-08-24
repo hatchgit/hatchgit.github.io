@@ -108,7 +108,7 @@
 }
 
 #bottomButtonHatch {
-    background-image: url('{{ site.baseurl }}/img/vincent_pres_1440.jpg');
+    background-image: url('{{ site.baseurl }}/img/sebPresIntroBrief1440.JPG');
     background-attachment: scroll;
     background-position: center center;
     background-repeat: no-repeat;

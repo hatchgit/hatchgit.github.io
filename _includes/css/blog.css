@@ -1,4 +1,5 @@
 #splashBlog {
+    /**
     background-image: url('{{ site.baseurl }}/img/stock/800px-1_sands_sky_park_sunset_rainbow.jpg');
     background-attachment: scroll;
     background-position: center center;
@@ -7,11 +8,12 @@
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    **/
 }
 
 #splashBlog {
     text-align: center;
-    color: #fff;
+    color: black;
 }
 
 #splashBlog .intro-text {
