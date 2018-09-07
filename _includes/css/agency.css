@@ -96,6 +96,12 @@ h6 {
 }
 
 
+.img-infographic-big {
+    overflow: auto;
+    width: 100%;
+    height: auto;
+}
+
 .img-centered {
     display: block;
     margin-left: auto;
@@ -104,6 +110,10 @@ h6 {
 
 .bg-light-gray {
     background-color: #f0f0f0;
+}
+
+.bg-dark-gray {
+    background-color: #888;
 }
 
 .bg-darkest-gray {
@@ -935,5 +945,5 @@ body {
 
 .navbar-img {
     height: 55px;
-    width: 105px;
+    width: 131px;
 }
