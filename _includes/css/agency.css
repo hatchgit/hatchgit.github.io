@@ -30,6 +30,10 @@ body {
     }
 }
 
+.text-dark {
+    color: black;
+}
+
 .text-muted {
     color: #{{ site.data.template.color.muted }};
 }
